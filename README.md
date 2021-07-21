@@ -2,17 +2,17 @@
 
 
 # Welcome!
-Python programlama atölyesine hoş geldiniz.Bu projenin temel amacı, bilgiyi yaymak-paylaşmak ve insanlara bilimsel projelerinde Python'u nasıl daha verimli kullanacaklarını öğretmektir. Öğrenciler bu süreçte, temel programlama kavramlarını, Biopython paketinin temellerini öğreneceklerdir(fasta dosyaları, blast, Entrez ve veri tabanları). Ve son olarak Python'da veri bilimi için bazı önemli paketler hakkında geniş bilgiler verilecektir(numpy, pandas, matplotlib).
+Python programlama atölyesine hoş geldiniz. Bu projenin temel amacı, bilgiyi yaymak-paylaşmak ve insanlara bilimsel projelerinde Python'u nasıl daha verimli kullanacaklarını öğretmektir. Öğrenciler bu süreçte, temel programlama kavramlarını, Biopython paketinin temellerini öğreneceklerdir(fasta dosyaları, blast, Entrez ve veri tabanları). Ve son olarak Python'da veri bilimi için bazı önemli paketler hakkında geniş bilgiler verilecektir(numpy, pandas, matplotlib).
 
 Welcome to Python programming workshop for bioinformatics Ostrapy. The main goal of this project is to spread knowledge and teach people how to use Python efficiently in their scientific projects. Students will learn basic programming concepts, essentials of Biopython package (working with fasta files, blast, Entrez database) and some key packages for data science in Python (numpy, pandas, matplotlib).
 
-## General info
+## Genel Bilgilendirme
 
-  :date: 09-13 December 2020
+  :tarih: 09-13 Aralık 2020
 
- :school: online
+ :yer: online
 
- :moneybag: Free
+ :ücret durumu: Ücretsiz
 
  :clipboard: [registration form](https://forms.gle/t1piEpAA9b1AHtNX7)
 
@@ -21,31 +21,31 @@ Welcome to Python programming workshop for bioinformatics Ostrapy. The main goal
 
 <img src="support.png" alt="drawing" width="800"/>
 
-## Preliminary Program
+## Program Akışı
 
-### Day 1 (4 pm - 8pm):
+### 1. Gün (16.00 - 20.00):
 Giriş \
 Temel Data Tipleri \
 Kontrol İfadeleri \
 Dosyalarla Çalışmak \
 Functions 
 
-### Day 2 (4 pm - 8 pm):
+### 2. Gün (16.00 - 20.00):
 Sınıflar \
 Modüller \
 Paketler
 
-### Day 3 (4 pm - 8 pm):
+### 3. Gün (16.00 - 20.00):
 Düzenli İfadeler \
 Biopython – SeqIO
 
-### Day 4 (9 am - 3 pm):
+### 4. Gün (9.00 - 15.00):
 Geçtiğimiz günlerle ilgili her şey \
 Biopython - AlignIO \
 Biopython - Blast \
 Biopython - Entrez
 
-### Day 5 (9 am - 3 pm):
+### 5. Gün (9.00 - 15.00):
 Geçtiğimiz günlerle ilgili her şey \
 pandas, matplotlib 
 
