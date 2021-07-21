@@ -8,15 +8,15 @@ Welcome to Python programming workshop for bioinformatics Ostrapy. The main goal
 
 ## Genel Bilgilendirme
 
-  :tarih: 09-13 Aralık 2020
+ Tarih: 09-13 Aralık 2020
 
- :Yer: Online
+ Yer: Online
 
- :Ücret durumu: Ücretsiz
+ Ücret durumu: Ücretsiz
 
- :Clipboard: [registration form](https://forms.gle/t1piEpAA9b1AHtNX7)
+ Clipboard: [registration form](https://forms.gle/t1piEpAA9b1AHtNX7)
 
- :e-mail: zihaladavid@gmail.com
+ e-mail: zihaladavid@gmail.com
 
 
 <img src="support.png" alt="drawing" width="800"/>
